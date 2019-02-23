@@ -1,0 +1,14 @@
+[
+  {
+    "_class": "com.mytest.domain.Student",
+    "name": "wang",
+    "code": "java",
+    "email": "alibaba@gmail.com"
+  },
+  {
+    "_class": "com.mytest.domain.Student",
+    "name": "xi",
+    "code": "Android",
+    "email": "123456@qq.com"
+  }
+]
